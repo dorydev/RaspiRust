@@ -1,0 +1,2 @@
+[build]
+target = "armv8-non-eabi"
